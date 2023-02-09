@@ -18,6 +18,8 @@
   "homepage": "https://github.com/sukhepadda/URL-Shortener#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "nodemon": "^2.0.20"
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20",
+    "shortid": "^2.2.16"
   }
 }
